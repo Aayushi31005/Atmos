@@ -41,11 +41,11 @@ npm run dev
 ### Home Page
 
 <img width="1918" height="1016" alt="Screenshot 2026-06-17 183317" src="https://github.com/user-attachments/assets/5cdac573-6279-4359-af3a-e13cd3cfbd4f" />
-<br><br>
+
 ### Loading page
 
 <img width="1918" height="1020" alt="Screenshot 2026-06-17 183510" src="https://github.com/user-attachments/assets/9af1a9e5-8f82-4b93-8de9-74e8a86a1509" />
-<br><br>
+
 ### Dashboard
 
 <img width="1912" height="1015" alt="Screenshot 2026-06-17 183531" src="https://github.com/user-attachments/assets/c548e667-a6f7-4d06-bc8a-3fced8f0b09f" />
