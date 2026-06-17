@@ -2,6 +2,16 @@
 
 A modern Weather Intelligence Dashboard that provides real-time weather insights, forecast visualization, and city-based weather analytics through an intuitive and responsive interface.
 
+## Overview
+
+Atmos is a weather intelligence dashboard designed to provide
+real-time weather insights and visual forecasting data through a
+clean and modern interface.
+
+Users can search cities worldwide and instantly view
+current weather conditions, key environmental metrics,
+and temperature trends.
+
 ## Features
 
 * Search weather information by city
@@ -14,6 +24,14 @@ A modern Weather Intelligence Dashboard that provides real-time weather insights
 * Interactive landing page experience
 * Loading and transition screens
 
+## Project Highlights
+
+* Real-time weather data integration
+* Interactive temperature trend visualization
+* Responsive dashboard design
+* Feature-based React architecture
+* Modern dark-themed UI
+  
 ## Tech Stack
 
 * React
@@ -62,6 +80,19 @@ npm run dev
 <img width="1917" height="1017" alt="Screenshot 2026-06-17 183711" src="https://github.com/user-attachments/assets/28337965-2d02-4bb5-858a-aa78d0318767" />
 
 <br><br>
+
+## Installation
+
+```bash
+git clone https://github.com/Aayushi31005/Atmos.git
+
+cd Atmos
+
+npm install
+
+npm run dev
+```
+
 ## Future Improvements
 
 * Multi-day weather forecasts
@@ -74,4 +105,4 @@ npm run dev
 
 Aayushi
 
-Developed as part of a web development internship.
+Computer Science Student | Web Developer Intern
