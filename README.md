@@ -62,4 +62,4 @@ npm run dev
 
 Aayushi
 
-Developed as part of a frontend development internship project.
+Developed as part of a web development internship.
