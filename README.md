@@ -38,39 +38,29 @@ npm run dev
 
 ## Screenshots
 
-### Landing Page
-
-(Add screenshot)
-
-### Dashboard
-
-(Add screenshot)
-
-### Temperature Trend Visualization
-
+### Home Page
 
 <img width="1918" height="1016" alt="Screenshot 2026-06-17 183317" src="https://github.com/user-attachments/assets/5cdac573-6279-4359-af3a-e13cd3cfbd4f" />
----
+
+### Loading page
 
 <img width="1918" height="1020" alt="Screenshot 2026-06-17 183510" src="https://github.com/user-attachments/assets/9af1a9e5-8f82-4b93-8de9-74e8a86a1509" />
 
----
+### Dashboard
 
 <img width="1912" height="1015" alt="Screenshot 2026-06-17 183531" src="https://github.com/user-attachments/assets/c548e667-a6f7-4d06-bc8a-3fced8f0b09f" />
 
----
+
 
 <img width="1917" height="1020" alt="Screenshot 2026-06-17 183553" src="https://github.com/user-attachments/assets/c2915e12-83fb-4a66-b5f6-cab5378c8620" />
 
----
 
 <img width="1918" height="1013" alt="Screenshot 2026-06-17 183642" src="https://github.com/user-attachments/assets/792cd0da-951c-43e8-8371-1b650e699672" />
 
----
 
 <img width="1917" height="1017" alt="Screenshot 2026-06-17 183711" src="https://github.com/user-attachments/assets/28337965-2d02-4bb5-858a-aa78d0318767" />
 
----
+
 ## Future Improvements
 
 * Multi-day weather forecasts
